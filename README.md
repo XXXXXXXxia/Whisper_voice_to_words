@@ -1,0 +1,2 @@
+# Whisper_voice_to_words
+此仓库用来盛放用openai做语音转文字的项目，opl校赛
